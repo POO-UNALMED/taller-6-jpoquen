@@ -20,6 +20,7 @@ public class Vehiculo {
 		this.peso = peso;
 		this.traccion = traccion;
 		this.fabricante = fabricante;
+		fabricante.aumFabricados();
 		++cantidadVehiculos;
 	}
 	
