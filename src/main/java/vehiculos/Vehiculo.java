@@ -1,5 +1,5 @@
 package vehiculos;
-import fabricantes.Fabricante;
+
 public class Vehiculo {
 	private String placa;
 	private int puertas;
